@@ -1,9 +1,10 @@
 {
   "owner": {
     "username": "lugrus2000",
-    "email": "lugrus2000@gmail.com"
+    "email": "lugrus2000@gmail.com",
+    "repo": "https://github.com/lugrus2000"
   },
   "record": {
-    "CNAME": "lugrus.github.io"
+    "CNAME": "lugrus.io"
   }
 }
